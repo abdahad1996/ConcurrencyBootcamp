@@ -1,3 +1,3 @@
 # ConcurrencyBootcamp
 
-1. [Theory](./Theory/README.MD)
+1. [Theory](./Theory/README.md)
